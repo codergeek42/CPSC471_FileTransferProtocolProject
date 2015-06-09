@@ -1,5 +1,3 @@
-# vim:set ts=4:
-
 === ASSIGNMENT INFORMATION ===
 Name: 		Peter Gordon
 Email:		peter.gordon@csu.fullerton.edu
