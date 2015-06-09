@@ -47,7 +47,6 @@ submission:
 	(10) utils.py -- A module containing miscellaneous utility functions and
 		structures used throughout the project.
 
-The original problem statement and assignment description is also included 
 	
 === SERVER DESIGN ===
 The server has both forked (forkserv.py) and threaded (threadserv.py)

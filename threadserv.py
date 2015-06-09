@@ -30,7 +30,7 @@
 
 """This module (serv.py) provides the threading server. It can be invoked with
 a desired port number as follows: 
-# $ ./threadserv.py <port>"""
+ $ ./threadserv.py <port>"""
 
 
 import sys
